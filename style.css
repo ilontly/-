@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+nav{
+    background-color: white;
+    
+}
+nav a{
+    text-decoration: none; 
+    color: black;
+    margin:15px;
+    color:navy;
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 2px;
+
+    
+}
+header{
+    background-color: #00FFFF;
+    
+}
+h1{
+    text-align: center;
+    color:rgb(160, 11, 229);
+}
+footer{
+    background-color: burlywood;
+    border: 5px solid burlywood;
+}
+footer p{
+    background-color: white;
+}
+
+.popular {
+    background-color: red;
+    border-radius: 10px;
+}
+.discount{
+    color:blue
+}
+main{
+    margin: 20px;
+}
+.discount{
+    color:blue
+}
+.delivery{
+    color:blue
+}
+.price{
+    color: blue;
+}
+.wholesale{
+    color: blue;
+}
+.about_us{
+    color: blue;
+}
